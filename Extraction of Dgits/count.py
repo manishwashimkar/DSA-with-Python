@@ -9,8 +9,8 @@ print(count)
 
 # for negative numbers
 num2 = -9876
-count2 = len(str(abs(num2)))
-print(count2)   # Output: 4
+print(len(str(abs(num2))))
+# (count2)   # Output: 4
 
 # using log10 By importing math
 
